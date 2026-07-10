@@ -29,6 +29,6 @@ staging area
 local area
 
 
-git add
+git add .
 git commit -m "second commit"
 git push
